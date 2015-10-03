@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 #Require specific ruby version
-ruby '2.1.1'
+ruby '2.1.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
 # Use sqlite3 as the database for Test
