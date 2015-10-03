@@ -8,7 +8,8 @@ gem 'rails', '4.2.1'
 gem 'sqlite3', group: [:development, :test]
 #Use PG for production DB
 gem 'pg', group: :production
-
+#use Boostrap for improving project
+gem 'bootstrap-sass'
 #Add 12 factor for heroku
 gem 'rails_12factor', group: :production
 # Use SCSS for stylesheets
